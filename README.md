@@ -11,7 +11,7 @@
   <li>Implementação com getElementById</li>
 </ul>
 
-###Linguagens utilizadas:
+<h2>Linguagens utilizadas:</h2>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
